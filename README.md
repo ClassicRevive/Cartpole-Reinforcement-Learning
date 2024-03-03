@@ -1,2 +1,2 @@
-# Cartpole-Reinforcement-Learning
-In this project, I implemented the Neural Fitted Q-iteration algorithm in python to solve the Cartpole balancing problem. Agents evaluated using monte carlo methods.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Iu3naNPW)
+# 2024-HW7
